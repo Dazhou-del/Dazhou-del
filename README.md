@@ -1,6 +1,8 @@
-### Hi there 👋
+### _Hi there 👋, I'm Dazhou.
 
-<!--
+I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
+
+
 **Dazhou-del/Dazhou-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 1797050390@qq.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ![](https://github-readme-stats.vercel.app/api?username=Dazhou-del&show_icons=true&theme=transparent)
 ### My Skill Set
 
