@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything related to Java/Python.
 - 📫 How to reach me: 1797050390@qq.com
-<img src="https://img0.baidu.com/it/u=3700542497,2886771839&fm=253&fmt=auto&app=138&f=PNG?w=626&h=500" alt="img" style="zoom: 25%;" />:13143002090
+![u=3700542497,2886771839&fm=253&fmt=auto&app=138&f=PNG](https://tptptptpt.oss-cn-guangzhou.aliyuncs.com/picture/u%3D3700542497%2C2886771839%26fm%3D253%26fmt%3Dauto%26app%3D138%26f%3DPNG.png):13143002090
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Dazhou-del&show_icons=true&theme=transparent)
