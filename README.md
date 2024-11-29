@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Everything I like.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about anything related to Java/Python.
+- 💬 Ask me about anything related to Java/Golang.
 - 📫 How to reach me: 1797050390@qq.com
 
   
